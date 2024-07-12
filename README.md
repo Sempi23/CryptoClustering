@@ -13,10 +13,13 @@ The essence of this project could be used to analyze features like price changes
 2. Find the best value for k using the original scaled DataFrame.
 3. Cluster cryptocurrencies with K-means using the original scaled DataFrame.
 4. Optimize clusters with Principal Component Analysis(PCA).
-5. Find the best value for k usin gthe PCA data.
+5. Find the best value for k using the PCA data.
 6. Cluster cryptocurrencies with K-means using the PCA data.
 7. Visualize and compare the above results to determine the impact of using fewer features to cluster the data using K-means.
 
+![Elbow curve contrast](<elbow curve contrast.png>)
+
+![Clusters contrast](<contrast clusters.png>)
 
 ## Tools/Libraries Used
 
