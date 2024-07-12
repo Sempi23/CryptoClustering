@@ -15,7 +15,7 @@ The essence of this project could be used to analyze features like price changes
 4. Optimize clusters with Principal Component Analysis(PCA).
 5. Find the best value for k usin gthe PCA data.
 6. Cluster cryptocurrencies with K-means using the PCA data.
-7. Visualize an dcompare the above results to determine the impact of using fewer features to cluster the data using K-means.
+7. Visualize and compare the above results to determine the impact of using fewer features to cluster the data using K-means.
 
 
 ## Tools/Libraries Used
